@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "pause": 0.3,
+    "width": 1920,
+    "heigth": 1080,
+    "start_but": "num 1",
+    "end_but": "num 2",
+    "shotdown": "num 0"
+}
