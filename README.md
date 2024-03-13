@@ -1,7 +1,9 @@
 #Description
+
 This simple script will make it easy to hide the interface in the game. 
 
 #Configs
+
 There is a config for convenient key customization, as well as for changing the scale of your game window.
 
 Standard configuration:
