@@ -2,6 +2,7 @@
 
 This simple script will make it easy to hide the interface in the game. 
 
+
 #Configs
 
 There is a config for convenient key customization, as well as for changing the scale of your game window.
@@ -13,6 +14,7 @@ Num 0 - disable interface.
 The "pause" parameter is responsible for the script speed. Change it if necessary.
 
 In the future new versions of the script will be released with expansion of functionality.
+
 
 #Installation and running:
 
